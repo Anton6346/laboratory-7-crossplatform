@@ -1,0 +1,10 @@
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:views="clr-namespace:University.MobileApp.Views">
+
+    <ShellContent Route="LoginPage"
+                  ContentTemplate="{DataTemplate views:LoginPage}" />
+
+    <ShellContent Route="CoursesPage"
+                  ContentTemplate="{DataTemplate views:LoginPage}" />
+
+</Shell>
